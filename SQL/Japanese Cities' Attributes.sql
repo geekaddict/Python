@@ -1,0 +1,1 @@
+select * from city where upper(countrycode)='JPN';
